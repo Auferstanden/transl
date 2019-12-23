@@ -1,0 +1,977 @@
+[
+  {
+    "id": 1,
+    "next": 2,
+    "series": "Lesson 5",
+    "title": {
+      "en": "The Invention that Changed Shopping",
+      "ja": "買いものを変えた発明"
+    },
+    "text": [
+      [
+        {
+          "en": "What do you think were the most important inventions?",
+          "ja": "最も重要な発明は何だったと思いますか？"
+        },
+        {
+          "en": "Most people think of the light bulb, the car or the telephone.",
+          "ja": "多くの人は、電球、車、または電話を思い浮かべます。"
+        },
+        {
+          "en": "These inventions have changed our lives a lot.",
+          "ja": "これらの発明は私たちの生活を大きく変えました。"
+        },
+        {
+          "en": "But every time you buy something, one important invention is working.",
+          "ja": "しかし、あなたが何かを買うたびに、ある重要な発明が働いています。"
+        },
+        {
+          "en": "It is, of course, the barcode on almost every product these days.",
+          "ja": "それは もちろん、最近のほとんどすべての製品に付いているバーコードです。"
+        }
+      ],
+      [
+        {
+          "en": "The idea for it began in 1948 with a small grocery shop owner.",
+          "ja": "このアイデアは、1948年に小さな食料品店のオーナーから始まりました。 "
+        },
+        {
+          "en": "The owner found it difficult to keep track of everything in his shop.",
+          "ja": "オーナーは自分の店にあるすべてのものを追跡するのは困難であると気づきました。"
+        },
+        {
+          "en": "He called the Drexel Institute of Technology and a man named Bernard Silver tried to help him with his problem.",
+          "ja": "彼はドレクセル大学に電話し、Bernard Silver という男性がその問題の解決を支援しようとしました。"
+        },
+        {
+          "en": "Along with a group of students, they decided that ultra violet rays, ink and a scanner could be the answer.",
+          "ja": "学生グループとともに、彼らは紫外線、インク、スキャナーが解決策になり得るとの結論に達しました。"
+        }
+      ],
+      [
+        {
+          "en": "After much work, the group made a system but there were two problems with it from the beginning.",
+          "ja": "多くの作業の後、グループはシステムを作りましたが、最初から2つの問題がありました。 "
+        },
+        {
+          "en": "First, it was very expensive and second, it was not stable.",
+          "ja": "1つ目は、システムが非常に高価であること、2つ目は、システムが安定していないことでした。"
+        },
+        {
+          "en": "If the system was going to be used by larger stores in the future, they had to make it better.",
+          "ja": "将来、より大規模な店舗でそのシステムを使用するには、それを改善する必要がありました。"
+        },
+        {
+          "en": "After many years, Silver and one of his students applied for a patent for the barcode.",
+          "ja": "何年も経った後、Silver と彼の学生の一人がバーコードの特許を申請しました。"
+        },
+        {
+          "en": "It wasn't until 1952 that the patent was finally given.",
+          "ja": "特許が最終的に付与されたのは1952年でした。"
+        }
+      ],
+      [
+        {
+          "en": "By 1966, many store owners started to use barcodes but there were still problems.",
+          "ja": "1966年までに、多くの店主がバーコードを使い始めましたが、まだいくつかの問題がありました。"
+        },
+        {
+          "en": "For example, was there a way to make sure that each product had a unique, uniform barcode?",
+          "ja": "例えば、「各製品に一意で統一されたバーコードが付いていることを確認する方法はあるか？」など。"
+        },
+        {
+          "en": "Finally, in 1970 a company called Logicom developed the Universal Grocery Products Identification Code, or UGPIC.",
+          "ja": "最後的に、1970年に Logicom という会社が Universal Grocery Products Identification Code (UGPIC) を開発しました。"
+        }
+      ],
+      [
+        {
+          "en": "At 8:01 AM on June 26, 1974 at a supermarket in Troy, Ohio, the first product with a barcode was scanned.",
+          "ja": "1974年6月26日午前8時1分、オハイオ州トロイのスーパーマーケットで、バーコード付きの製品が初めてスキャンされました。"
+        },
+        {
+          "en": "It was a 10-pack of chewing gum.",
+          "ja": "10パック入りのチューインガムでした。"
+        },
+        {
+          "en": "The technology has since progressed and we now use other codes, like QR codes, to store a lot of information.",
+          "ja": "テクノロジーはその後も進歩し、現在では、私たちは、多くの情報を保存するためにQRコードなどの他のコードを使用しています。"
+        },
+        {
+          "en": "Even your smartphone can scan these images to exchange personal details now.",
+          "ja": "あなたのスマートフォンでも、これらの画像をスキャンして、個人的なやり取りを交換できます。"
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "next": 3,
+    "series": "Lesson 5",
+    "title": {
+      "en": "Comprehension",
+      "ja": "理解"
+    },
+    "text": [
+      [
+        {
+          "en": "For each of the following questions, choose the best phrase from among the four choices from ① to ④, and answer it.",
+          "ja": "次の問いに対する答えとして最も適当なものを，次の①～④から選んで答えなさい。"
+        }
+      ],
+      [
+        {
+          "en": "1. Paragraph (1) suggests that [1].",
+          "ja": "1. 段落 (1) は [1] と示唆している。"
+        },
+        {
+          "en": "① the most important invention of all time was the barcode",
+          "ja": "① 史上最も重要な発明はバーコードだった"
+        },
+        {
+          "en": "② most inventions have not changed our lifestyle",
+          "ja": "② ほとんどの発明は私たちの生活スタイルを変えていない"
+        },
+        {
+          "en": "③ most people don't think of the barcode as an important invention",
+          "ja": "③ ほとんどの人はバーコードを重要な発明とは考えていない"
+        },
+        {
+          "en": "④ having barcodes on products is a danger to society",
+          "ja": "④ 製品にバーコードを付けることは社会にとって危険である"
+        }
+      ],
+      [
+        {
+          "en": "2. According to paragraph (2), the people at the Drexel Institute of Technology [2].",
+          "ja": "2. 段落 (2) によると、ドレクセル大学の人々は [2]。"
+        },
+        {
+          "en": "① were not interested in the problem",
+          "ja": "① 問題に関心がなかった"
+        },
+        {
+          "en": "② called the shop owner for help",
+          "ja": "② 店主に助けを求めた"
+        },
+        {
+          "en": "③ thought that a scanner was part of the solution",
+          "ja": "③ スキャナーが解決策の一部であると考えた"
+        },
+        {
+          "en": "④ were answering questions about products in the store",
+          "ja": "④ 店内の製品に関する質問に答えていた"
+        }
+      ],
+      [
+        {
+          "en": "3. According to paragraph (3), the first barcode system [3].",
+          "ja": "3. 段落 (3) によると、最初のバーコードシステムは [3]。"
+        },
+        {
+          "en": "① was cheap to make",
+          "ja": "① 安く作ることができた"
+        },
+        {
+          "en": "② was used in large stores from the beginning",
+          "ja": "② 最初から大型店で使われていた"
+        },
+        {
+          "en": "③ got better very quickly",
+          "ja": "③ すぐに良くなっていった"
+        },
+        {
+          "en": "④ had a few problems",
+          "ja": "④ いくつかの問題があった"
+        }
+      ],
+      [
+        {
+          "en": "4. According to paragraph (4), to solve the problem with the barcodes [4].",
+          "ja": "4. 段落 (4) によると、バーコードにあった問題を解決するために [4]。"
+        },
+        {
+          "en": "① a company made a system to create unique codes",
+          "ja": "① ある会社が一意なコードを作成するためのシステムを作った"
+        },
+        {
+          "en": "② many people were angry at the inventors",
+          "ja": "② 多くの人々が発明者に怒っていた"
+        },
+        {
+          "en": "③ a few stores started making codes",
+          "ja": "③ いくつかの店舗がコードの作成を開始した"
+        },
+        {
+          "en": "④ one company quit working on it",
+          "ja": "④ ある会社がバーコードの取り組みを中止した"
+        }
+      ],
+      [
+        {
+          "en": "5. According to paragraph (5), which of the following is true?",
+          "ja": "5. 段落 (5) によると、次のうちどれが正しいですか。"
+        },
+        {
+          "en": "① Only chewing gum could have barcodes at first.",
+          "ja": "① 初めはチューインガムにしかバーコードを付けることができなかった。"
+        },
+        {
+          "en": "② By 1974, most products were sold with barcodes.",
+          "ja": "② 1974年までに、ほとんどの製品がバーコード付きで販売されるようになった。"
+        },
+        {
+          "en": "③ QR codes were also introduced in 1974.",
+          "ja": "③ QR コードも1974年に導入された。"
+        },
+        {
+          "en": "④ The supermarket in Ohio sold gum in a pack of 10.",
+          "ja": "④ オハイオ州のスーパーマーケットはガムを10パックで販売した。"
+        }
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "next": 4,
+    "series": "Lesson 6",
+    "title": {
+      "en": "Charity Work and the Stars",
+      "ja": "チャリティー活動とスターたち"
+    },
+    "text": [
+      [
+        {
+          "en": "(1) A successful Hollywood star can make millions of dollars for making just one movie.",
+          "ja": "(1) 成功したハリウッドスターは、たった1本の映画から数百万ドルを稼ぐことができます。"
+        },
+        {
+          "en": "How do they spend all of their money?",
+          "ja": "彼らはどのようにしてすべてのお金を使うのでしょうか。"
+        },
+        {
+          "en": "Sometimes they buy expensive cars and large houses.",
+          "ja": "彼らは、高価な車や大きな家を買うこともあります。"
+        },
+        {
+          "en": "They also take vacations to exotic places around the world.",
+          "ja": "また、世界中のエキゾチックな場所へ休暇を取ったりもします。"
+        },
+        {
+          "en": "But many Hollywood stars are also giving their money to charity.",
+          "ja": "しかし、ハリウッドスターの多くはまた、チャリティーにお金を寄付しています。"
+        }
+      ],
+      [
+        {
+          "en": "(2) Angelina Jolie is one star who is giving both her time and money to charity.",
+          "ja": "(2) アンジェリーナ・ジョリーは、慈善活動に時間とお金の両方を費やしているスターの一人です。"
+        },
+        {
+          "en": "She first became interested in charity work when she was making one of her films.",
+          "ja": "彼女が最初に慈善活動に興味を持ったのは、映画を制作しているときのことでした。"
+        },
+        {
+          "en": "The movie Tomb Raider, was filmed in Cambodia.",
+          "ja": "映画「トゥームレイダー」はカンボジアで撮影されました。"
+        },
+        {
+          "en": "During the filming, she noticed there were many problems in the country.",
+          "ja": "撮影中、彼女はその国に多くの課題があることに気づきました。"
+        },
+        {
+          "en": "She wanted to help somehow.",
+          "ja": "どういうわけか、彼女は力になりたいと思いました。"
+        }
+      ],
+      [
+        {
+          "en": "(3) After her experience in Cambodia, she started to work with the United Nations High Commissioner for Refugees (UNHCR).",
+          "ja": "(3) カンボジアでの経験の後、彼女は国連難民高等弁務官 (UNHCR) との連携を始めました。"
+        },
+        {
+          "en": "This organization tries to protect refugees around the world.",
+          "ja": "この組織は、世界中の難民を保護しようとしています。"
+        },
+        {
+          "en": "It also tries to solve refugee problems.",
+          "ja": "また、難民問題も解決しようとしています。"
+        },
+        {
+          "en": "From 2001, Jolie travelled to many countries with UNHCR including Kenya, Egypt, Syria and Iraq.",
+          "ja": "2001年から、ジョリーは、ケニア、エジプト、シリア、イラクを含む UNHCR のある多くの国を周遊しました。"
+        }
+      ],
+      [
+        {
+          "en": "(4) Later, she started an organization to help the people of Cambodia.",
+          "ja": "(4) その後、彼女はカンボジアの人々を支援する組織を開きました。"
+        },
+        {
+          "en": "She founded the Maddox Jolie Pitt Foundation with her husband, Brad Pitt.",
+          "ja": "彼女は、夫のブラッド・ピットと共に Maddox Jolie Pitt Foundation を設立しました。"
+        },
+        {
+          "en": "The foundation is trying to improve the lives of people living in poverty.",
+          "ja": "この財団は、貧困の中で生きる人々の生活を改善しようとしています。"
+        },
+        {
+          "en": "The foundation has built schools for children and clinics for basic health care.",
+          "ja": "財団は、子どものための学校と基本的な健康管理のための診療所を建設しました。"
+        },
+        {
+          "en": "There are many challenges in the country, but Jolie's foundation is not giving up.",
+          "ja": "この国には多くの課題がありますが、ジョリーの財団は諦めていません。"
+        },
+        {
+          "en": "They continue to work on many projects there.",
+          "ja": "彼らはそこで多くのプロジェクトに取り組み続けています。"
+        }
+      ],
+      [
+        {
+          "en": "(5) Many famous musicians are active in charity work too.",
+          "ja": "(5) 有名なミュージシャンの多くも慈善活動に積極的です。"
+        },
+        {
+          "en": "For example, Lady Gaga donated a lot of money to help Japan after the earthquake and tsunami in 2011.",
+          "ja": "たとえば、2011年の地震と津波の後、レディ・ガガは日本を支援するために多額のお金を寄付しました。"
+        },
+        {
+          "en": "But normal people also got involved in charity work after the disaster.",
+          "ja": "しかし、普通の人々も災害のあと慈善活動に参加しました。 "
+        },
+        {
+          "en": "Groups of everyday people went to the Tohoku region to help clean up.",
+          "ja": "毎日の生活の中の人々の団体が東北地方に行き、掃除を手伝いました。"
+        },
+        {
+          "en": "Also, musicians still go there perform charity concerts.",
+          "ja": "また、ミュージシャンらは今もそこでチャリティーコンサートを行っています。"
+        },
+        {
+          "en": "It's not necessary to have a lot of money to do charity work for volunteer.",
+          "ja": "ボランティアで慈善活動をするのに、多額のお金は必要ありません。"
+        },
+        {
+          "en": "Anyone with a little time and a kind heart can make a big difference.",
+          "ja": "少しの時間と優しい心を持った人なら、誰でも大きな違いを生むことができるのです。"
+        }
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "next": 5,
+    "series": "Lesson 6",
+    "title": {
+      "en": "Comprehension",
+      "ja": "理解"
+    },
+    "text": [
+      [
+        {
+          "en": "For each of the following questions, choose the best phrase from among the four choices from ① to ④, and answer it.",
+          "ja": "次の問いに対する答えとして最も適当なものを，次の①～④から選んで答えなさい。"
+        }
+      ],
+      [
+        {
+          "en": "1. According to paragraph (1), which of the following is NOT true?",
+          "ja": "1. 段落 (1) によると、次のうち正しくないのはどれですか。"
+        },
+        {
+          "en": "① Hollywood stars can make a lot of money from movies.",
+          "ja": "① ハリウッドスターは映画で多くのお金を稼ぐことができる。"
+        },
+        {
+          "en": "② Hollywood stars spend money only on themselves.",
+          "ja": "② 人のハリウッドスターは自分のためだけにお金を使う。"
+        },
+        {
+          "en": "③ Exotic vacations are a popular way for Hollywood stars to spend money.",
+          "ja": "③ エキゾチックな休暇（を取ること）は、ハリウッドスターの一般的なお金の使い道である。"
+        },
+        {
+          "en": "④ Spending money on houses is common for Hollywood stars.",
+          "ja": "④ 家にお金を使うことは、ハリウッドスターにとって普通のことである。"
+        }
+      ],
+      [
+        {
+          "en": "2. In paragraph (2), Angelina Jolie is an actress who [2].",
+          "ja": "2. 段落 (2) では、アンジェリーナ・ジョリーは [2] 女優である。"
+        },
+        {
+          "en": "① is a famous person from Cambodia",
+          "ja": "① カンボジアで有名人の"
+        },
+        {
+          "en": "② uses both her time and money to support charity work",
+          "ja": "② 自らの時間とお金の両方を使って慈善活動を支援する"
+        },
+        {
+          "en": "③ has made many movies in Cambodia",
+          "ja": "③ カンボジアで多くの映画を作った"
+        },
+        {
+          "en": "④ started working for a charity group called Tomb Raider",
+          "ja": "④ 「トゥームレイダー」という慈善活動団体で働き始めた"
+        }
+      ],
+      [
+        {
+          "en": "3. According to paragraph (3), which of the following is true about Angelina Jolie?",
+          "ja": "3. 段落 (3) によると、アンジェリーナ・ジョリーについて次のうちどれが正しいですか。"
+        },
+        {
+          "en": "① She became an important person for a UN organization.",
+          "ja": "① 彼女は国連組織にとって重要な人物になった。"
+        },
+        {
+          "en": "② She became a refugee in 2001.",
+          "ja": "② 彼女は2001年に難民になった。"
+        },
+        {
+          "en": "③ She was unable to visit many countries due to political problems.",
+          "ja": "③ 彼女は政治的な問題のために、多くの国を訪問することができなかった。"
+        },
+        {
+          "en": "④ She solved many problems for herself.",
+          "ja": "④ 彼女は自力で多くの問題を解決した。"
+        }
+      ],
+      [
+        {
+          "en": "4. According to paragraph (4), the Maddox-Jolie Pitt Foundation [4].",
+          "ja": "4. 段落 (4) によると、Maddox-Jolie Pitt Foundation は [4]。"
+        },
+        {
+          "en": "① was started to improve the lives of people in Cambodia",
+          "ja": "① カンボジアの人々の生活を改善するために始まった"
+        },
+        {
+          "en": "② was first started by Jolie's husband, Brad Pitt",
+          "ja": "② ジョリーの夫であるブラッド・ピットによって最初に始められた"
+        },
+        {
+          "en": "③ is only building schools in Cambodia",
+          "ja": "③ カンボジアでのみ学校を建設している"
+        },
+        {
+          "en": "④ is helping Cambodian students study in other countries",
+          "ja": "④ カンボジア人学生が他国で学べるよう支援している"
+        }
+      ],
+      [
+        {
+          "en": "5. In paragraph (5), the author suggests that [5].",
+          "ja": "5. 段落 (5) で、筆者は [5] と示している。"
+        },
+        {
+          "en": "① only famous people can do charity work",
+          "ja": "① 有名人だけが慈善活動を行うことができる"
+        },
+        {
+          "en": "② it's not necessary to have a lot of money to do charity work",
+          "ja": "② 慈善活動を行うのに多くのお金は必要でない"
+        },
+        {
+          "en": "③ Lady Gaga has given concerts in Japan for charity",
+          "ja": "③ レディー・ガガは日本でチャリティのためのコンサートを開催した"
+        },
+        {
+          "en": "④ charity groups should stop their activities in the Tohoku region",
+          "ja": "④ 慈善団体は東北地方における活動を停止すべきだ"
+        }
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "next": 6,
+    "series": "Lesson 7",
+    "title": {
+      "en": "The Immune System and Allergies",
+      "ja": "免疫システムとアレルギー"
+    },
+    "text": [
+      [
+        {
+          "en": "(1) Have you ever wondered why people get allergies?",
+          "ja": "(1) なぜ人々がアレルギーを起こすのか疑問に思ったことはありますか。"
+        },
+        {
+          "en": "Especially in the spring, pollen from plants and flowers causes many people to suffer.",
+          "ja": "特に春には、植物や花からの花粉が多くの人を苦しめます。"
+        },
+        {
+          "en": "But what exactly causes allergies in humans?",
+          "ja": "ところで、人間にアレルギーを引き起こすのは何でしょうか。"
+        },
+        {
+          "en": "The reason has to do with the way the human immune system works in the body.",
+          "ja": "原因は、人間の免疫システムが体内で機能する方法に関係しています。"
+        }
+      ],
+      [
+        {
+          "en": "(2) The immune system's job is to recognize strange things that enter the body from the environment.",
+          "ja": "(2) 免疫システムの役目は、環境から身体に入る変なものを認識することです。"
+        },
+        {
+          "en": "When something strange enters, the immune system makes antibodies to use later if the same thing returns.",
+          "ja": "何か変なものが入ると、免疫系は抗体を作り、次に同じものが入ってきたときにそれを使うようになります。"
+        },
+        {
+          "en": "It's like the body makes a memory so it can easily fight it the next time.",
+          "ja": "次からそれに対抗しやすくするため、体が記憶を作るようなものです。"
+        },
+        {
+          "en": "This is the same way vaccines work.",
+          "ja": "これは、ワクチンの働きと同じです。"
+        },
+        {
+          "en": "By putting a small amount of a disease into the body, antibodies help us not to get a disease in the future.",
+          "ja": "体内に少量の病気を入れることで、免疫系が将来病気にならないようにするのを助けます。"
+        }
+      ],
+      [
+        {
+          "en": "(3) As for pollen, the immune system mistakenly believes it is a bad thing even though it isn't.",
+          "ja": "(3) 花粉に関しては、免疫系はそうではないのに、それは悪いものだと誤って信じてしまいます。"
+        },
+        {
+          "en": "When pollen enters your body, the immune system starts to create histamines that make you sneeze or your eyes itchy.",
+          "ja": "花粉が体内に入ると、免疫系がヒスタミンを作り始め、くしゃみが出たり、目がかゆくなったりします。"
+        },
+        {
+          "en": "The immune system is trying to fight something that it shouldn't.",
+          "ja": "免疫系は、本来戦うべきでないものと戦おうとしているのです。"
+        }
+      ],
+      [
+        {
+          "en": "(4) Allergies seem to be more common in rich countries.",
+          "ja": "(4) アレルギーは、裕福な国でより広まっているようです。"
+        },
+        {
+          "en": "Many scientists think this is because of the Hygiene Hypothesis.",
+          "ja": "多くの科学者は、これは衛生仮説によるものだと考えています。"
+        },
+        {
+          "en": "In developing countries, sanitation is not as good as in developed countries.",
+          "ja": "発展途上国では、公衆衛生は先進国ほど良くはありません。"
+        },
+        {
+          "en": "As a result, children can get many diseases more easily and even get parasites.",
+          "ja": "その結果、子どもたちは多くの病気により簡単に罹り、寄生虫に寄生されるおそれさえあります。"
+        },
+        {
+          "en": "On the other hand, children in more developed countries don't get contact with many diseases because of the cleaner environment.",
+          "ja": "一方、より進んだ国の子どもたちは、よりきれいな環境のため、多くの病気と接触することがありません。"
+        }
+      ],
+      [
+        {
+          "en": "(5) Nowadays, there are more and more people who are allergies to some foods.",
+          "ja": "(5) 近頃、特定の食品にアレルギーを持つ人が増えてきています。"
+        },
+        {
+          "en": "In many restaurants, foods without nuts are now served and many things at the supermarket are sold for people with food allergies.",
+          "ja": "レストランの多くでは、ナッツを含まない食品が提供されるようになり、スーパーマーケットでは、食品アレルギーのある人向けに多くのものが販売されています。"
+        },
+        {
+          "en": "Even on airplanes, if a passenger is allergic to nuts, they often don't serve them during the flight.",
+          "ja": "飛行機でさえ、乗客のうち誰かがナッツにアレルギーを持っている場合、飛行中にナッツを提供しないことがよくあります。"
+        },
+        {
+          "en": "Allergies are changing many things in our lives.",
+          "ja": "アレルギーは私たちの生活の多くに変化をもたらしています。"
+        }
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "next": 7,
+    "series": "Lesson 7",
+    "title": {
+      "en": "Comprehension",
+      "ja": "理解"
+    },
+    "text": [
+      [
+        {
+          "en": "For each of the following questions, choose the best phrase from among the four choices from ① to ④, and answer it.",
+          "ja": "次の問いに対する答えとして最も適当なものを，次の①～④から選んで答えなさい。"
+        }
+      ],
+      [
+        {
+          "en": "1. According to paragraph (1), the cause of allergies [1].",
+          "ja": "1. 段落 (1) によると、アレルギーの原因は [1]。"
+        },
+        {
+          "en": "① is explained best by understanding pollen",
+          "ja": "① 花粉を理解することにより最もよく説明できる"
+        },
+        {
+          "en": "② is related to the body's immune system",
+          "ja": "② 体の免疫系に関連している"
+        },
+        {
+          "en": "③ is still not known",
+          "ja": "③ まだ知られていない"
+        },
+        {
+          "en": "④ is often seen in the spring",
+          "ja": "④ 春によく見られる"
+        }
+      ],
+      [
+        {
+          "en": "2. According to paragraph (2), vaccines [2].",
+          "ja": "2. 段落 (2) によると、ワクチンは [2]。"
+        },
+        {
+          "en": "① cause allergies in people",
+          "ja": "① 人々にアレルギーを引き起こす"
+        },
+        {
+          "en": "② contain a small amount of a disease",
+          "ja": "② 少量の病気を含む"
+        },
+        {
+          "en": "③ prevent the immune system from working",
+          "ja": "③ 免疫システムのはたらきを妨げる"
+        },
+        {
+          "en": "④ are used to cure allergies",
+          "ja": "④ アレルギーの治療に使われる"
+        }
+      ],
+      [
+        {
+          "en": "3. According to paragraph (3), allergic symptoms occur because [3].",
+          "ja": "3. 段落 (3) によると、アレルギー症状は [3] が原因で発生する。"
+        },
+        {
+          "en": "① the immune system doesn't make enough histamines",
+          "ja": "① 免疫系が十分なヒスタミンを作らないこと"
+        },
+        {
+          "en": "② there are too many histamines made",
+          "ja": "② ヒスタミンが過剰に作られること"
+        },
+        {
+          "en": "③ sneezing and itchy eyes are experienced",
+          "ja": "③ くしゃみとかゆみを伴う目"
+        },
+        {
+          "en": "④ the body is not used to fighting the pollen",
+          "ja": "④ 体が花粉への抵抗に慣れていないこと"
+        }
+      ],
+      [
+        {
+          "en": "Paragraph (4) says that developed countries have more people with allergies because [4].",
+          "ja": "段落 (4) は、先進国でアレルギーを持つ人がより多いのは [4] が理由としている。"
+        },
+        {
+          "en": "① children cannot play outside",
+          "ja": "① 子どもが外で遊べないこと"
+        },
+        {
+          "en": "② children are raised in a cleaner environment",
+          "ja": "② 子どもがよりきれいな環境で育てられること"
+        },
+        {
+          "en": "③ there are many parasites that children come in contact with",
+          "ja": "③ 子どもが多くの寄生虫と接触すること"
+        },
+        {
+          "en": "④ there is no sanitation system that protects children",
+          "ja": "④ 子どもを保護する公衆衛生維持の仕組みがないこと"
+        }
+      ],
+      [
+        {
+          "en": "5. According to paragraph (5), which of the following is NOT true?",
+          "ja": "5. 段落 (5) によると、次のうちどれが間違っていますか。"
+        },
+        {
+          "en": "① Nuts are often served on airplanes during the flight.",
+          "ja": "① ナッツはよく飛行機のフライト中に提供される。"
+        },
+        {
+          "en": "② Food allergies are very rare these days.",
+          "ja": "② 食物アレルギーは、近頃はめったに見られない。"
+        },
+        {
+          "en": "③ Supermarkets are selling many things for people with food allergies.",
+          "ja": "③ スーパーマーケットは、食物アレルギーを持つ人向けに多くのものを販売している。"
+        },
+        {
+          "en": "④ Many restaurants are serving food without nuts.",
+          "ja": "④ レストランの多くがナッツ抜き食品を提供している。"
+        }
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "next": 8,
+    "series": "Lesson 8",
+    "title": {
+      "en": "A Short Biography of Ludwig van Beethoven",
+      "ja": "ベートーベン小伝"
+    },
+    "text": [
+      [
+        {
+          "en": "(1) In 1770, Ludwig van Beethoven was born in Bonn, Germany.",
+          "ja": "(1) 1770年、ルートヴィヒ・ヴァン・ベートーヴェンはドイツのボンで生まれました。"
+        },
+        {
+          "en": "His date of birth is not known for sure, but he celebrated his birthday on December 16th.",
+          "ja": "彼の生年月日ははっきりとは分かっていませんが、彼は12月16日に自分の誕生日を祝いました。"
+        },
+        {
+          "en": "He started learning music from his father but later a friend of his father's taught him.",
+          "ja": "彼は父から音楽を学び始め、後に父の友人が彼に教えました。"
+        },
+        {
+          "en": "They were both very strict teachers for the young Beethoven.",
+          "ja": "どちらも若いベートーヴェンにとって非常に厳しい教師でした。"
+        },
+        {
+          "en": "His talent was clear at an early age.",
+          "ja": "彼の才能は幼い頃から明らかでした。"
+        },
+        {
+          "en": "When he was only 8 years old, he was already learning to play the organ, viola and piano.",
+          "ja": "わずか8歳で、彼はすでにオルガン、ビオラ、ピアノを弾くことを学んでいました。"
+        }
+      ],
+      [
+        {
+          "en": "(2) In 1787, Beethoven travelled to Vienna.",
+          "ja": "(2) 1787年、ベートーヴェンはウィーンを旅しました。"
+        },
+        {
+          "en": "At first, he wanted to study with Wolfgang Amadeus Mozart.",
+          "ja": "最初は、彼はヴォルフガング・アマデウス・モーツァルトのもとで学びたいと思っていました。"
+        },
+        {
+          "en": "But nobody knows if he met Mozart or not.",
+          "ja": "しかし、彼がモーツァルトに会ったのかどうか、知る人はいません。"
+        },
+        {
+          "en": "In the end, he studied composing with another famous composer of the time, Joseph Haydn.",
+          "ja": "結局、彼は当時の別の有名な作曲家、ジョセフ・ハイドンのもとで作曲を学びました。"
+        },
+        {
+          "en": "He lived in Vienna for the rest of his life.",
+          "ja": "彼は生涯ウィーンに住んでいました。"
+        }
+      ],
+      [
+        {
+          "en": "(3) Beethoven started having trouble with his hearing when he was in his twenties.",
+          "ja": "ベートーヴェンは、20代のときに聴覚に異変が生じ始めました。"
+        },
+        {
+          "en": "It was difficult for him and often he felt depressed about it.",
+          "ja": "彼にとってそれは辛い出来事で、彼はよくそのことについて落ち込んでいました。 "
+        },
+        {
+          "en": "But he continued composing and performing with his hearing problem.",
+          "ja": "しかし、彼は聴覚に問題を抱えながらも、作曲と演奏を続けました。"
+        },
+        {
+          "en": "His hearing got worse and worse until he lost it completely.",
+          "ja": "彼の聴力は次第に悪化し、彼は聴力を完全に失いました。"
+        }
+      ],
+      [
+        {
+          "en": "(4) Near the end of his life, he composed his Ninth Symphony.",
+          "ja": "(4) 彼の人生の終わり近くに、彼は交響曲第9番を作曲しました。"
+        },
+        {
+          "en": "There is a famous story about the first time it was performed.",
+          "ja": "それが初めて演奏されたときについての有名な話があります。"
+        },
+        {
+          "en": "By that time, he had probably lost his hearing completely.",
+          "ja": "その時までに、彼はおそらく聴力を完全に失っていたのでしょう。"
+        },
+        {
+          "en": "So when he finished the concert, he could not hear the audience's applause.",
+          "ja": "コンサートを終えたとき、彼は聴衆の拍手が聞こえませんでした。"
+        },
+        {
+          "en": "Someone turned him around to the audience.",
+          "ja": "誰かがベートーヴェンを聴衆の方に振り向かせました。"
+        },
+        {
+          "en": "When he did, he could see the people applauding wildly but couldn't hear it.",
+          "ja": "彼が振り返ると、彼は人々が熱心に拍手をしているのが見えましたが、彼にはそれが聞こえませんでした。"
+        },
+        {
+          "en": "He started to cry.",
+          "ja": "彼は泣き始めました。"
+        }
+      ],
+      [
+        {
+          "en": "Beethoven died on March 26, 1827.",
+          "ja": "ベートーヴェンは1827年3月26日に亡くなりました。"
+        },
+        {
+          "en": "His funeral was held three days later in Vienna.",
+          "ja": "葬儀は3日後にウィーンで行われました。"
+        },
+        {
+          "en": "They say that nearly 20,000 people gathered for the event.",
+          "ja": "葬儀にはおよそ2万人近くが集まったと言われています。"
+        },
+        {
+          "en": "In their numbers, the people of Vienna showed their love of Beethoven and his music.",
+          "ja": "ウィーンの人々は、ベートーヴェンと彼の音楽への愛を数字で示したのです。"
+        },
+        {
+          "en": "His music continues to be popular with audiences around the world.",
+          "ja": "彼の音楽は、世界中の聞き手の間で人気を博し続けています。"
+        }
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "series": "Lesson 8",
+    "title": {
+      "en": "Comprehension",
+      "ja": "理解"
+    },
+    "text": [
+      [
+        {
+          "en": "For each of the following questions, choose the best phrase from among the four choices from ① to ④, and answer it.",
+          "ja": "次の問いに対する答えとして最も適当なものを，次の①～④から選んで答えなさい。"
+        }
+      ],
+      [
+        {
+          "en": "1. According to paragraph (1), which of the following is NOT true?",
+          "ja": "1. 段落 (1) によると、次のうちどれが間違っていますか。"
+        },
+        {
+          "en": "① Beethoven's music teachers were very easy on him.",
+          "ja": "① ベートーヴェンの教師は彼にとても優しかった。"
+        },
+        {
+          "en": "② Beethoven learned several musical instruments from a young age.",
+          "ja": "② ベートーヴェンは幼いころから複数の楽器を習っていた。"
+        },
+        {
+          "en": "③ His birthday was celebrated on December 16th.",
+          "ja": "③ 彼の誕生日は12月16日に祝われる。"
+        },
+        {
+          "en": "④ Beethoven's talent was clear early in his life.",
+          "ja": "④ ベートーヴェンの才能は幼少期から明らかであった。"
+        }
+      ],
+      [
+        {
+          "en": "2. According to paragraph (2), which of the following is true?",
+          "ja": "2. 段落 (2) によると、次のうちどれが正しいですか。"
+        },
+        {
+          "en": "① Mozart and Beethoven were studying under Haydn.",
+          "ja": "① モーツァルトとベートーヴェンはハイドンのもとで学んだ。"
+        },
+        {
+          "en": "② Haydn became Beethoven's teacher.",
+          "ja": "② ハイドンはベートーヴェンの教師になった。"
+        },
+        {
+          "en": "③ Beethoven didn't stay in Vienna long.",
+          "ja": "③ ベートーヴェンはウィーンに長く滞在していない。"
+        },
+        {
+          "en": "④ Beethoven didn't want to study composing.",
+          "ja": "④ ベートーヴェンは作曲を学びたくなかった。"
+        }
+      ],
+      [
+        {
+          "en": "3. According to paragraph (3), Beethoven's hearing problem [3].",
+          "ja": "3. 段落 (3) によると、ベートーヴェンの聴力の問題は [3]。"
+        },
+        {
+          "en": "① started when he was a teenager",
+          "ja": "① 彼が十代のころに始まった"
+        },
+        {
+          "en": "② made him stop composing for many years",
+          "ja": "② 彼が長い間作曲を止めることにつながった"
+        },
+        {
+          "en": "③ didn't get better later in life",
+          "ja": "③ その後も良くならなかった"
+        },
+        {
+          "en": "④ didn't affect his life much.",
+          "ja": "④ 彼の人生にあまり影響しなかった"
+        }
+      ],
+      [
+        {
+          "en": "4. According to paragraph (4), which of the following is true?",
+          "ja": "4. 段落 (4) によると、次のうちどれが正しいですか。"
+        },
+        {
+          "en": "① The Ninth Symphony was composed before Beethoven lost his hearing.",
+          "ja": "① 交響曲第9番はベートーヴェンが聴力を失う前に作曲された。"
+        },
+        {
+          "en": "② After the first Ninth Symphony performance, Beethoven felt disappointed.",
+          "ja": "② 交響曲第9番の演奏のあと、ベートーヴェンは失望した。"
+        },
+        {
+          "en": "③ Beethoven was unable to hear the audience's reaction at the end of a performance.",
+          "ja": "③ ベートーヴェンは演奏のあとの聴衆の反応を聞くことができなかった。"
+        },
+        {
+          "en": "④ Beethoven could only hear the audience's reaction, not see it at the end of a performance.",
+          "ja": "④ ベートーヴェンは演奏の後の聴衆の反応を聞くことはできたが、それを見ることはできなかった。"
+        }
+      ],
+      [
+        {
+          "en": "5. In paragraph (5), the author's main point is to explain [5].",
+          "ja": "5. 段落 (5) によると、筆者の主な論点は [5] を説明することである。"
+        },
+        {
+          "en": "① how Beethoven died",
+          "ja": "① どのようにしてベートーヴェンは亡くなったか"
+        },
+        {
+          "en": "② why people went to the funeral",
+          "ja": "② 人々が葬式に行った理由"
+        },
+        {
+          "en": "③ how Beethoven was loved by the people of Vienna",
+          "ja": "③ ベートーヴェンはウィーンの人々にどのように愛されたのか"
+        },
+        {
+          "en": "④ where Beethoven's funeral was held",
+          "ja": "④ ベートーヴェンの葬式が開かれた場所"
+        }
+      ]
+    ]
+  }
+]
