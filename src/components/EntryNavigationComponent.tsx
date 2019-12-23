@@ -21,7 +21,7 @@ interface Props {
   nextEntry?: Entry
 }
 
-export default function FloatingActionButtons(props: Props) {
+export default function(props: Props) {
   const classes = useStyles()
 
   return (

@@ -32,7 +32,7 @@ interface Props {
   entries: Entry[]
 }
 
-export default function BottomAppBar(props: Props) {
+export default function(props: Props) {
   const classes = useStyles()
 
   return (

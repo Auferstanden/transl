@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import entries from '../data/entries.json'
 import { makeStyles, Theme, createStyles } from '@material-ui/core'
 import Entry from '@/models/Entry'
@@ -15,9 +15,13 @@ const useStyles = makeStyles((theme: Theme) =>
   }),
 )
 
-export default function Hook() {
+export default function() {
   const classes = useStyles()
   const [title, setTitle] = useState('')
+
+  useEffect(() => {
+    document.title = title
+  }, [title])
 
   return (
     <HashRouter hashType="hashbang">
@@ -36,7 +40,7 @@ export default function Hook() {
               }
             }
 
-            if (entry) {
+            if (entry !== undefined) {
               let nextEntry = undefined
 
               for (let i in entries) {

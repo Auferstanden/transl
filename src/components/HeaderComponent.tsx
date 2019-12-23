@@ -39,10 +39,8 @@ interface Props {
   title: string
 }
 
-export default function SearchAppBar(props: Props) {
+export default function(props: Props) {
   const classes = useStyles()
-
-  document.title = props.title
 
   return (
     <div className={classes.root}>
@@ -57,6 +55,7 @@ export default function SearchAppBar(props: Props) {
           >
             <ArrowBackIcon />
           </IconButton>
+
           <Typography className={classes.title} variant="h6" noWrap>
             {props.title}
           </Typography>
